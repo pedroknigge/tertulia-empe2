@@ -1,0 +1,161 @@
+{
+  "dafne": [
+    {
+      "desde": "22:40:00",
+      "hasta": "22:46:00",
+      "lugar": "cella"
+    },
+    {
+      "desde": "22:46:00",
+      "hasta": "22:47:00",
+      "lugar": "templo"
+    },
+    {
+      "desde": "22:47:00",
+      "hasta": "22:55:00",
+      "lugar": "terraza"
+    }
+  ],
+  "nikos": [
+    {
+      "desde": "22:40:00",
+      "hasta": "22:43:00",
+      "lugar": "cella"
+    },
+    {
+      "desde": "22:43:00",
+      "hasta": "22:44:00",
+      "lugar": "templo"
+    },
+    {
+      "desde": "22:44:00",
+      "hasta": "22:52:00",
+      "lugar": "puerta-norte"
+    },
+    {
+      "desde": "22:52:00",
+      "hasta": "22:54:00",
+      "lugar": "templo"
+    },
+    {
+      "desde": "22:54:00",
+      "hasta": "22:55:00",
+      "lugar": "cella"
+    }
+  ],
+  "theo": [
+    {
+      "desde": "22:40:00",
+      "hasta": "22:41:00",
+      "lugar": "templo"
+    },
+    {
+      "desde": "22:41:00",
+      "hasta": "22:53:00",
+      "lugar": "cella"
+    },
+    {
+      "desde": "22:53:00",
+      "hasta": "22:55:00",
+      "lugar": "templo"
+    }
+  ],
+  "petros": [
+    {
+      "desde": "22:40:00",
+      "hasta": "22:43:00",
+      "lugar": "templo"
+    },
+    {
+      "desde": "22:43:00",
+      "hasta": "22:44:00",
+      "lugar": "puerta-norte"
+    },
+    {
+      "desde": "22:44:00",
+      "hasta": "22:55:00",
+      "lugar": "estacionamiento"
+    }
+  ],
+  "marina": [
+    {
+      "desde": "22:40:00",
+      "hasta": "22:42:00",
+      "lugar": "terraza"
+    },
+    {
+      "desde": "22:42:00",
+      "hasta": "22:44:00",
+      "lugar": "templo"
+    },
+    {
+      "desde": "22:44:00",
+      "hasta": "22:45:00",
+      "lugar": "puerta-norte"
+    },
+    {
+      "desde": "22:45:00",
+      "hasta": "22:55:00",
+      "lugar": "estacionamiento"
+    }
+  ],
+  "kyra": [
+    {
+      "desde": "22:40:00",
+      "hasta": "22:55:00",
+      "lugar": "terraza"
+    }
+  ],
+  "ariadna": [
+    {
+      "desde": "22:40:00",
+      "hasta": "22:55:00",
+      "lugar": "jardín"
+    }
+  ],
+  "eleni": [
+    {
+      "desde": "22:40:00",
+      "hasta": "22:55:00",
+      "lugar": "puerta-norte"
+    }
+  ],
+  "yannis": [
+    {
+      "desde": "22:40:00",
+      "hasta": "22:55:00",
+      "lugar": "puerta-sur"
+    }
+  ],
+  "stavros": [
+    {
+      "desde": "22:40:00",
+      "hasta": "22:48:00",
+      "lugar": "cocina"
+    },
+    {
+      "desde": "22:48:00",
+      "hasta": "22:49:00",
+      "lugar": "puerta-sur"
+    },
+    {
+      "desde": "22:49:00",
+      "hasta": "22:55:00",
+      "lugar": "afuera"
+    }
+  ],
+  "ioanna": [
+    {
+      "desde": "22:40:00",
+      "hasta": "22:55:00",
+      "lugar": "terraza"
+    }
+  ],
+  "leon": [
+    {
+      "desde": "22:40:00",
+      "hasta": "22:55:00",
+      "lugar": "puerta-norte"
+    }
+  ]
+}
