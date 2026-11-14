@@ -1,0 +1,232 @@
+[
+  {
+    "id": "entrada-cella",
+    "estado": "intervenida",
+    "motivo": "El evento C-0162 (AG-004, Cella IN, 22:48:31) se agregó al registro de forma deliberada. Su número es posterior a C-0161 (23:36), así que quedó fuera de la secuencia del controlador, que en el resto del día es estrictamente cronológica. AG-004 no tiene habilitada la puerta Cella según el informe, y una credencial sin permiso no puede dar OK. A esa hora Petros estaba fuera del recinto: sale por Norte a las 22:44 (N-0066), vuelve a las 22:58 (N-0069), su foto de las 22:51 tiene GPS del estacionamiento, y Eleni declara lo mismo por escrito. Theo tenía la clave de administración del sistema desde las 19:34 y Nikos admite que no la cambió. Alcance: el resto del registro de la Cella sigue siendo utilizable.",
+    "evidencias": [
+      "nivel-1/accesos.csv#C-0162",
+      "nivel-1/accesos.csv#C-0161",
+      "nivel-1/accesos.csv#C-0148",
+      "nivel-1/accesos.csv#N-0066",
+      "nivel-1/accesos.csv#N-0069",
+      "nivel-2/fotos/IMG_5128.jpg#EXIF",
+      "nivel-4/testimonios-escritos/03-eleni.md",
+      "nivel-2/celulares/theo/whatsapp/Nikos Andreou.txt#L22",
+      "nivel-3/interrogatorios/nikos.mp3#t=130"
+    ]
+  },
+  {
+    "id": "foto-anonima",
+    "estado": "intervenida",
+    "motivo": "La foto viene de la Nikon D750 de Ariadna: tiene el mismo número de serie (6093142) que DSC_2108, y sus píxeles son idénticos a DSC_2108 (diferencia media 0): es la misma imagen de Petros en la escalinata, tomada a las 20:31 hora de la cámara (21:31 en Atenas), con los metadatos reescritos. Las fotos auténticas de esa cámara no tienen GPS y registran +02:00 (los fuegos de las 22:00 aparecen a las 21:01). La anónima trae +03:00, coordenadas de la cella y una hora que coincide al segundo con C-0162 (22:48:31): esos metadatos se editaron para que respaldaran el registro alterado. Ariadna declara que retrató a Petros solo antes de los fuegos y que no usó otra cámara. La escena es auténtica (Petros en la escalinata cerca de las 21:31), pero no prueba nada sobre las 22:48 ni sobre la cella.",
+    "evidencias": [
+      "nivel-4/foto-anonima.jpg#EXIF",
+      "nivel-4/foto-anonima.jpg#imagen",
+      "nivel-2/fotos/DSC_2108.JPG#EXIF",
+      "nivel-2/fotos/DSC_2108.JPG#imagen",
+      "nivel-2/fotos/DSC_2146.JPG#EXIF",
+      "nivel-4/testimonios-escritos/01-ariadna.md",
+      "nivel-1/accesos.csv#C-0162",
+      "nivel-2/celulares/ariadna/whatsapp/Staff Gala.txt#L71",
+      "nivel-4/extracto-fiscalia.md"
+    ]
+  },
+  {
+    "id": "declaracion-dafne",
+    "estado": "confiable",
+    "motivo": "Coincide con la Cella (entra a las 22:38, sale a las 22:46), con su foto y WhatsApp de las 22:45 y con los mensajes y la selfie con Kyra en la terraza. Límite: puede afirmar que la corona estaba en su lugar a las 22:45; después no vio la cella. Su dato de que Theo quedó adentro coincide con C-0148.",
+    "evidencias": [
+      "nivel-3/interrogatorios/dafne.mp3#t=124",
+      "nivel-3/interrogatorios/dafne.mp3#t=194",
+      "nivel-1/accesos.csv#C-0147",
+      "nivel-2/fotos/IMG_6152.jpg#EXIF",
+      "nivel-2/celulares/dafne/whatsapp/Nikos Andreou.txt#L41",
+      "nivel-2/fotos/IMG_7305.jpg#EXIF"
+    ]
+  },
+  {
+    "id": "declaracion-nikos",
+    "estado": "confiable",
+    "motivo": "Sus horarios coinciden con la Cella (22:39 a 22:43 y 22:54 a 23:00), con su WhatsApp y con lo que declaran por escrito Eleni y Theo. Límites que él mismo reconoce: a las 22:55 verificó el sistema y no el contenido de la vitrina, y le pasó la clave de administración a Theo sin cambiarla. Por eso no garantiza la integridad del registro.",
+    "evidencias": [
+      "nivel-3/interrogatorios/nikos.mp3#t=176",
+      "nivel-3/interrogatorios/nikos.mp3#t=301",
+      "nivel-3/interrogatorios/nikos.mp3#t=130",
+      "nivel-1/accesos.csv#C-0146",
+      "nivel-1/accesos.csv#C-0149",
+      "nivel-2/celulares/nikos/whatsapp/Dafne Kostas.txt#L42",
+      "nivel-2/celulares/nikos/whatsapp/Theo Kallis.txt#L22",
+      "nivel-4/testimonios-escritos/03-eleni.md"
+    ]
+  },
+  {
+    "id": "declaracion-theo",
+    "estado": "dudosa",
+    "motivo": "Su versión de los puntos centrales no se sostiene. Dice que salió junto con Dafne, pero se quedó en la cella hasta las 22:53 (C-0148). Dice que fue a buscar un cable, pero a las 23:03 le escribe a Hermes 'ya está en la camioneta', y Yannis y Stavros lo vieron con el bolso y volviendo con las manos vacías. Dice que con Hermes solo hablaba de trabajo, pero a las 20:05 tenían pendiente 'lo de la pieza' en 'una sola ventana'. Sobre el uso de la clave de administración no da precisiones. Son varias fuentes independientes en su contra.",
+    "evidencias": [
+      "nivel-3/interrogatorios/theo.mp3#t=158",
+      "nivel-3/interrogatorios/theo.mp3#t=264",
+      "nivel-3/interrogatorios/theo.mp3#t=326",
+      "nivel-1/accesos.csv#C-0148",
+      "nivel-1/accesos.csv#S-0029",
+      "nivel-1/accesos.csv#S-0032",
+      "nivel-2/celulares/theo/telegram/result.json#chat-10013:mensaje-40",
+      "nivel-2/celulares/theo/telegram/result.json#chat-10013:mensaje-46",
+      "nivel-3/interrogatorios/yannis.mp3#t=299",
+      "nivel-4/testimonios-escritos/04-stavros.md"
+    ]
+  },
+  {
+    "id": "declaracion-petros",
+    "estado": "dudosa",
+    "motivo": "Su afirmación principal (que entre las 22:40 y las 23:00 estuvo en la terraza con Kyra) es falsa. Lo desmienten Norte (sale a las 22:44 y vuelve a las 22:58), el GPS de su foto, Telegram, Kyra y Eleni. Aplicando la misma regla que a las demás piezas, se descarta su versión de su recorrido. Alcance: su negativa a haber entrado a la cella sí queda respaldada, porque la única prueba en contra (C-0162 y la foto anónima) está intervenida. Ocultó una transacción en el estacionamiento, no el robo.",
+    "evidencias": [
+      "nivel-3/interrogatorios/petros.mp3#t=137",
+      "nivel-3/interrogatorios/petros.mp3#t=229",
+      "nivel-1/accesos.csv#N-0066",
+      "nivel-1/accesos.csv#N-0069",
+      "nivel-2/fotos/IMG_5128.jpg#EXIF",
+      "nivel-2/celulares/petros/telegram/result.json#chat-10004:mensaje-28",
+      "nivel-3/interrogatorios/kyra.mp3#t=137",
+      "nivel-4/testimonios-escritos/03-eleni.md"
+    ]
+  },
+  {
+    "id": "declaracion-marina",
+    "estado": "dudosa",
+    "motivo": "Dice que no salió del templo ni fue al estacionamiento. La desmienten Norte (sale a las 22:45 y vuelve a las 22:57), Eleni y sus propios mensajes de Telegram. También evade hablar del contenido del baúl, que el chat y la foto vinculan a la ánfora. No hay evidencia que la vincule con la cella.",
+    "evidencias": [
+      "nivel-3/interrogatorios/marina.mp3#t=154",
+      "nivel-3/interrogatorios/marina.mp3#t=176",
+      "nivel-1/accesos.csv#N-0067",
+      "nivel-1/accesos.csv#N-0068",
+      "nivel-2/celulares/marina/telegram/result.json#chat-10003:mensaje-31",
+      "nivel-4/testimonios-escritos/03-eleni.md"
+    ]
+  },
+  {
+    "id": "declaracion-kyra",
+    "estado": "confiable",
+    "motivo": "Coincide con su WhatsApp de las 22:44 y 22:47, con la selfie con Dafne de las 22:50 (GPS de la terraza) y con lo que declaran Dafne e Ioanna. Distingue lo que vio de lo que le contaron. Límites: desde la terraza no veía la puerta de la cella, y lo de la alarma conectada lo sabe por Dafne.",
+    "evidencias": [
+      "nivel-3/interrogatorios/kyra.mp3#t=115",
+      "nivel-3/interrogatorios/kyra.mp3#t=137",
+      "nivel-2/celulares/kyra/whatsapp/Dafne Kostas.txt#L18",
+      "nivel-2/fotos/IMG_7305.jpg#EXIF",
+      "nivel-3/interrogatorios/kyra.mp3#t=274"
+    ]
+  },
+  {
+    "id": "declaracion-yannis",
+    "estado": "confiable",
+    "motivo": "Sus horarios coinciden con el registro de Sur una vez corregido el atraso del reloj (+7 min 13 s): Stavros sale a las 22:49 y Theo sale a las 23:01 y vuelve a las 23:08. También coinciden con su SMS de las 23:08. Se aplica la misma regla que a Eleni: un testimonio que coincide con un registro independiente se acepta. Límite: no veía el estacionamiento de invitados ni el interior de la camioneta.",
+    "evidencias": [
+      "nivel-3/interrogatorios/yannis.mp3#t=189",
+      "nivel-3/interrogatorios/yannis.mp3#t=217",
+      "nivel-3/interrogatorios/yannis.mp3#t=349",
+      "nivel-1/accesos.csv#S-0027",
+      "nivel-1/accesos.csv#S-0029",
+      "nivel-1/accesos.csv#S-0032",
+      "nivel-2/celulares/yannis/sms.xml#mensaje-68"
+    ]
+  },
+  {
+    "id": "declaracion-leon",
+    "estado": "dudosa",
+    "motivo": "Dice que estuvo toda la noche en el jardín, pero el SMS de Eleni, el WhatsApp de Nikos, el GPS de su propia foto (22:46, en Norte) y la declaración de Eleni lo ubican en la puerta Norte. Él mismo reconoce que había tomado y que mezcla los momentos. No es una mentira deliberada sobre la cella: su memoria no sirve para ese tramo.",
+    "evidencias": [
+      "nivel-3/interrogatorios/leon.mp3#t=62",
+      "nivel-3/interrogatorios/leon.mp3#t=127",
+      "nivel-2/celulares/eleni/sms.xml#mensaje-66",
+      "nivel-2/fotos/IMG_4661.jpg#EXIF",
+      "nivel-4/testimonios-escritos/03-eleni.md"
+    ]
+  },
+  {
+    "id": "testimonio-1",
+    "estado": "confiable",
+    "motivo": "Coincide con la evidencia técnica: su Nikon D750 (serie 6093142) registra +02:00 y no tiene GPS, y DSC_2108 muestra a Petros en la escalinata antes de los fuegos (DSC_2146). Su mensaje de las 22:38 la ubica en el jardín y en las 22:20 comparte el álbum en Staff Gala. Sirve para fechar la escena de la foto anónima, no para el recorrido de Petros después de las 22:40.",
+    "evidencias": [
+      "nivel-4/testimonios-escritos/01-ariadna.md",
+      "nivel-2/fotos/DSC_2108.JPG#EXIF",
+      "nivel-2/fotos/DSC_2146.JPG#EXIF",
+      "nivel-2/celulares/ariadna/whatsapp/Kyra Alexiou.txt#L22",
+      "nivel-2/celulares/ariadna/whatsapp/Staff Gala.txt#L71"
+    ]
+  },
+  {
+    "id": "testimonio-2",
+    "estado": "dudosa",
+    "motivo": "Lo que vio ella (servicio en la terraza, Kyra con Dafne) coincide con la evidencia. Pero la identificación de Petros no es suficiente: vio de espaldas a un señor de saco claro y lo asoció con Petros al escuchar su nombre después. A las 22:50 Petros estaba fuera del recinto según Norte y el GPS. Misma regla que con Leon: una identificación reconstruida después y contradicha por registros independientes no se acepta.",
+    "evidencias": [
+      "nivel-4/testimonios-escritos/02-ioanna.md",
+      "nivel-1/accesos.csv#N-0066",
+      "nivel-1/accesos.csv#N-0069",
+      "nivel-2/fotos/IMG_5128.jpg#EXIF",
+      "nivel-2/fotos/IMG_9140.jpg#EXIF"
+    ]
+  },
+  {
+    "id": "testimonio-3",
+    "estado": "confiable",
+    "motivo": "El orden que describe (sale Petros, sale Marina por separado, vuelve Marina y después Petros) coincide exactamente con N-0066, N-0067, N-0068 y N-0069. Lo de Leon del lado interior coincide con su SMS de las 22:40, con Nikos y con la foto de Leon. Ella reconoce que no anotó los segundos.",
+    "evidencias": [
+      "nivel-4/testimonios-escritos/03-eleni.md",
+      "nivel-1/accesos.csv#N-0066",
+      "nivel-1/accesos.csv#N-0067",
+      "nivel-1/accesos.csv#N-0068",
+      "nivel-1/accesos.csv#N-0069",
+      "nivel-2/celulares/eleni/sms.xml#mensaje-66",
+      "nivel-2/fotos/IMG_4661.jpg#EXIF"
+    ]
+  },
+  {
+    "id": "testimonio-4",
+    "estado": "confiable",
+    "motivo": "Sus viajes coinciden con el registro de Sur corregido: sale a las 22:49 y vuelve a las 22:57, y vuelve a salir a las 23:02. Su foto IMG_8026 es de las 23:04 en el sector de servicio, entre la salida de Theo (23:01) y su regreso (23:08). Ubica a Theo junto a la camioneta con el bolso. Límite: no vio el contenido del bolso, y lo dice.",
+    "evidencias": [
+      "nivel-4/testimonios-escritos/04-stavros.md",
+      "nivel-2/fotos/IMG_8026.jpg#EXIF",
+      "nivel-2/fotos/IMG_8026.jpg#imagen",
+      "nivel-1/accesos.csv#S-0027",
+      "nivel-1/accesos.csv#S-0030",
+      "nivel-1/accesos.csv#S-0029",
+      "nivel-2/celulares/stavros/whatsapp/Catering Demou.txt#L61"
+    ]
+  },
+  {
+    "id": "testimonio-5",
+    "estado": "dudosa",
+    "motivo": "Sigue sosteniendo que estuvo en el jardín, contra el SMS de Eleni, Nikos y el GPS de su propia foto, y reconoce que había tomado y mezcla momentos. Se aplica la misma regla que a su interrogatorio. Lo único que se acepta es que la foto la sacó él: la fecha mal del archivo es un error de reloj (2025) que no altera su GPS.",
+    "evidencias": [
+      "nivel-4/testimonios-escritos/05-leon.md",
+      "nivel-2/fotos/IMG_4661.jpg#EXIF",
+      "nivel-2/celulares/eleni/sms.xml#mensaje-66",
+      "nivel-2/celulares/nikos/whatsapp/Dafne Kostas.txt#L42"
+    ]
+  },
+  {
+    "id": "nivel-1/accesos.csv#S-0027",
+    "estado": "confiable",
+    "motivo": "El controlador Sur atrasa 7 min 13 s (el mismo corte de luz figura a las 21:06:52 en Sur y a las 21:14:05 en Norte y Cella; la vuelta, a las 21:07:32 y a las 21:14:45). Es un error de reloj, no una manipulación: la secuencia de eventos es correcta, y con la corrección coincide con los SMS y los mensajes de Yannis y Stavros. Se aplica a todos los eventos de Sur.",
+    "evidencias": [
+      "nivel-1/accesos.csv#S-0020",
+      "nivel-1/accesos.csv#S-0021",
+      "nivel-1/accesos.csv#N-0030",
+      "nivel-1/accesos.csv#N-0031",
+      "nivel-1/accesos.csv#S-0032",
+      "nivel-2/celulares/yannis/sms.xml#mensaje-68"
+    ]
+  },
+  {
+    "id": "nivel-2/fotos/IMG_4661.jpg",
+    "estado": "confiable",
+    "motivo": "La fecha de la cámara está mal (2025-01-01) porque el teléfono se reinició, pero el GPSDateStamp y el GPSTimeStamp dan 15/08 a las 22:46 en la puerta Norte, y eso coincide con Eleni y Nikos. Con la misma regla que para el reloj de Sur: un error de reloj sin intención no equivale a una intervención.",
+    "evidencias": [
+      "nivel-2/fotos/IMG_4661.jpg#EXIF",
+      "nivel-2/fotos/IMG_4661.jpg#imagen",
+      "nivel-2/celulares/eleni/sms.xml#mensaje-66",
+      "nivel-4/testimonios-escritos/05-leon.md"
+    ]
+  }
+]
