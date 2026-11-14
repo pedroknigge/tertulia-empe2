@@ -1,28 +1,30 @@
-Interrogador: Son las 15 y 10 del domingo 16. Por favor diga su nombre y el trabajo que estaba haciendo anoche. Vamos a empezar por su recorrido y después por las personas con las que hablo. Avise si necesita parar para consultar alguna nota.
-Kyra: Kiralexio, periodista. Estaba preparando una nota cultural, no una crónica policial. Que va del teléfono y un grabador pequeño. Las pilas del grabador estaban nuevas, pero igual lo reivise varias veces porque una besterí una entrevista entera. Todavía me acuerdo de la cara de mi editor cuando se lo dije.
+Interrogador: Son las 15 y 10 del domingo 16. Por favor, diga su nombre y el trabajo que estaba haciendo anoche. Vamos a empezar por su recorrido y después por las personas con las que habló. Avise si necesita parar para consultar alguna nota.
+Kyra: Quiero lección, periodista. Estaba preparando una nota cultural, no una crónica policial. Llevaba el teléfono y un grabador pequeño. Las pilas del grabador estaban nuevas, pero igual lo revisé varias veces porque una vez te le di una entrevista entera. Todavía me acuerdo de la cara de mi editor cuando se lo dije.
 Interrogador: ¿Tenía entrevistas acordadas?
-Kyra: Una contafne para lar del catálogo y en los próximos préstamos. Había intentado concedir también un comentario de Petros, pero no teníamos una cita completa esa noche. Él me había dado su número en otra ocasión. Que yo tenda el número de alguien no significa que me haya sentado a entrevistarlo en cada evento.
+Kyra: Una con Dafne para hablar del catálogo y de los próximos préstamos. Ahí ha intentado conseguir también un comentario de Petros, pero no teníamos una cita completa esa noche. Él me había dado su número en otra ocasión. Que yo tenga el número de alguien no significa que me haya sentado a entrevistarlo en cada evento.
 Interrogador: ¿Dónde estaba cuando empezaron los trabajos de iluminación?
-Kyra: En la terrasa. Busqué ese lugar porque bajo la banda tapaba las voces y ahí dentro había gente saludándose todo el tiempo. Me quedé funto de la veranda. Desde ahí se veía parte del cardín, pero no la pota de la sala interior. Si alguien entraba allí, yo no tenía cómo verlo.
-Interrogador: ¿Cómo contactó Adafne?
-Kyra: Le escribí que estaba en la terraza y que viniera cuando pudiera. Ella contestó después que acaba de salir y venía por el pasillo. La vida se acarse. Me parece que guardó el teléfono recién al llegar. Empezamos hablando de porque el catálogo había salido tan tarde que era una pregunta bastante poco amable para una dala.
-Interrogador: ¿Decuerdas las horas?
-Kyra: El primer mensaje está a las 10.44. Daphne llegó un par de minutos más tarde. No, no te laboran que apoyó el vaso, pero en el teléfono queda la conversación. También nos hicimos una foto. Después seguimos hablando un rato hasta pasadas las 11.05.
+Kyra: En la terraza. Busqué ese lugar porque bajo la banda tapaba las voces y adentro había gente saludándose todo el tiempo. Me quedé junto a la baranda. Desde ahí se veía parte del jardín, pero no la puerta de la sala interior. Si alguien entraba allí, yo no tenía cómo verlo.
+Interrogador: ¿Cómo contactó a Dafne?
+Kyra: Le escribí que estaba en la terraza y que viniera cuando pudiera. Ella contestó después que acababa de salir y venía por el pasillo. La vi acercarse. Me parece que guardó el teléfono recién al llegar. Empezamos hablando de por qué el catálogo había salido tan tarde, que era una pregunta bastante poco amable para una dama.
+Interrogador: ¿Recuerda las horas?
+Kyra: El primer mensaje está a las 10 y 44. Daphne llegó un par de minutos más tarde. No anoté la hora en que apoyó el vaso, pero en el teléfono queda la conversación. También nos hicimos una foto. Después seguimos hablando un rato hasta pasadas las 11 menos 5.
 Interrogador: ¿Petros estaba con ustedes?
-Kyra: No, no hablé con Petros entre las 10.40 y las 11. Estuve esperando a Daphne y después estuve con ella. A Petros no no vi allí. No puedo decir en qué otra parte estaba porque no lo estaba buscando, pero una charla larga conmigo en ese tramo no ocurrió.
-Interrogador: ¿Udo lo es acercado, sin que usted lo notara?
-Kyra: Sí, pasó por algún lugar de la terraza. No lo sé. Hay una diferencia entre pasar detrás de alguien y conversar 20 minutos con esa persona. Yo estaba haciendo preguntas y prestando atención a las respuestas. Petros tiene una oza bastante reconocible. No la habría confundido con Daphne.
+Kyra: Lo, no hablé con Petros entre las 10 y 40 y las 11. Estuve esperando a Dafne y después estuve con ella. A Petros no lo vi allí. No puedo decir en qué otra parte estaba porque no lo estaba buscando, pero una charla larga conmigo en ese tramo no me [solapamiento]
+Interrogador: [solapamiento] ocurriría.
+Kyra: Si pasó por algún lugar de la terraza, no lo sé. Hay una diferencia entre pasar detrás de alguien y conversar 20 minutos con esa persona. Yo estaba haciendo preguntas y prestando atención a las respuestas. Petros tiene una voz bastante reconocible. No lo habría confundido con Dafne.
 Interrogador: ¿Quién más estaba cerca?
-Kyra: Lanna iba y venía como una bandeja. Le pelía a Dua. No me acuerdo si me la trajo encedida en la vuelta siguiente. Haya una pareja apoyada en la otra punta y la animirando el teléfono. No sé sus nombres. No voy a ponerles nombres ahora porque los haya visto en una lista.
+Kyra: Le anda iba y venía con una bandeja, le pedí agua, no me acuerdo si me la trajo enseguida o en la vuelta siguiente. Había una pareja apoyada en la otra punta del alley mirando el teléfono. No sé sus nombres, no voy a ponerles nombres ahora porque los haya visto en una lista.
 Interrogador: Habló con Ariadna.
-Kyra: Por mensajes. Me di fojo y se quedaban en el jardín con la banda. Te iría a sacar el saxofón, estas, nunca era para quedar tapada por el micrófono. Yo le pedí la agua así subida, como si no estuviera trabajando la pobre. Después me di cuenta de que Joanna estaba ahí mismo y se la pedía de ella.
+Kyra: Por mensajes. Me dijo que se quedaba en el jardín con la banda. Quería sacar el saxofón de estas para quedar tapada por el micrófono. Yo le pedí agua si subía, como si no estuviera trabajando la pobre. Después me di cuenta de que Johanna estaba ahí mismo y se la pedí a ella.
 Interrogador: Vio a Leon en ese rato.
-Kyra: No, no te vas a... Antes la vi a habito con un vaso. Me saludó dos veces como si fuera la primera, eso me llamó la atención. No puedo devolver cuánto había tomado. Estaba haciendo una nota y no contando copos. Más tarde escuché que hubo una discusión en una de las entradas, pero no la presencié.
-Interrogador: ¿De qué hablaron con Daphne?
-Kyra: del trabajo de conservación, del dinero para arreglar una filtración y era difícil que escordinar preestamos entre museos. Hay una parte donde ella se queja de que siempre le preguntan cuánto vale una pieza. Yo le pregunté si del valor económico le quitaba espacio a otras conversaciones. Esa parte pensaba usarla como cierre. Las veces se usen todo durante la conversación. No se fue. Miro el teléfono, respondí un mensaje y di fo que ya estaba conectada a la alarma. Yo no vi el contenido de la pantalla. No voy a repetir como si fuera observación mía lo que ella di fo en un sistema que yo no conozco. Después me tomamos la pregunta que había quedado a medias.
-Interrogador: ¿Qué ocurriró cuando terminó la entrevista?
-Kyra: Guardo el grabador, anote dos palabras para acordarme a un dato y miré las fotos. Me quedé un poco más en la terraza. Cuando empecé a notar movimientos secos del templo, fui a dar. No llegué en el primer segundo. Había personas preguntándose cosas y todavía no está claro que podían contar.
-Interrogador: ¿Recibió después mensajes de algunos de los presentes?
-Kyra: Un montón. Algunos querían saber que iba a publicar, otros delían que no pusiera sus nombres. No pulíque una acusación. Estoy acostumbrada a recibir versiones interesadas y la que cada cual recuerde algo distinto. Mira, veador, tienen lo que tiene. No voy a poner palabras nuevas porque ahora el contexto cambió.
-Interrogador: Algo más que quiera precisa.
-Kyra: Que mi declaración sobre Petro se limita esa conversación que no tuvimos. No estoy diciendo dónde estaba él. Nikke hizo, Nikke llevar. Sobre la fin de sí puedo decir que estuvo conmigo en la terra asegurante el tramo que acabo de escribir. Eso es lo que vi yo.
+Kyra: No la te goza. Antes la había visto con un vaso. Me saludó dos veces como si fuera la primera, eso me llamó la atención. No puedo evaluar cuánto había tomado. Estaba haciendo una nota y no contando copas. Más tarde escuché que hubo una discusión en una de las entradas, pero no la presencié.
+Interrogador: ¿De qué hablaron con Dafne?
+Kyra: Del trabajo de conservación, del dinero para arreglar una filtración y de lo difícil que es coordinar préstamos entre museos. Hay una parte donde ella se queja de que siempre le preguntan cuánto vale una pieza. Yo le pregunté si del valor económico le quitaba espacio a otras conversaciones. Esa parte pensaba usarla como cierre.
+Interrogador: Dafne se ausentó durante la conversación.
+Kyra: No se fue. Miró el teléfono, respondió un mensaje y dijo que ya está conectada la alarma. Yo no vi el contenido de la pantalla. No voy a repetir como si fuera observación mía lo que ella dijo de un sistema que yo no conozco. Después retomamos la pregunta que había quedado a medias. ¿Qué [solapamiento]
+Interrogador: [solapamiento] ocurrió cuando terminó la entrevista?
+Kyra: Guardé el grabador, anoté dos palabras para acordarme de un dato y miré las fotos. Me quedé un poco más en la terraza. Cuando empecé a notar movimientos cerca del templo, fui a ver. No llegué en el primer segundo. Había personas preguntándose cosas y todavía no está claro qué podían contar.
+Interrogador: ¿Recibió después mensajes de alguno de los presentes?
+Kyra: Un montón. Algunos querían saber qué iba a publicar, otros querían que no pusiera sus nombres. No publiqué una acusación. Estoy acostumbrada a recibir versiones interesadas y la que cada cual recuerde algo distinto. Mi grabador tiene lo que tiene. No voy a poner palabras nuevas porque ahora el contexto cambió.
+Interrogador: Algo más que quiera precisar.
+Kyra: Que mi declaración sobre Petro se limita a esa conversación que no tuvimos. No estoy diciendo dónde estaba él, ni qué hizo, ni qué llevaba. Sobre Dafne sí puedo decir que estuvo conmigo en la terraza durante el tramo que acabo de escribir. Eso lo vi yo.

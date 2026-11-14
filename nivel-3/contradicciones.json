@@ -1,7 +1,7 @@
 [
   {
     "persona": "theo",
-    "afirmacion": "Dice que salió de la cella junto con Dafne cuando ella se fue y que no se quedó trabajando adentro.",
+    "afirmacion": "Dice que se fue cuando ella salió, a las diez y cuarenta y seis, y que no se quedó trabajando dentro después.",
     "evidencias": [
       "nivel-3/interrogatorios/theo.mp3#t=158",
       "nivel-3/interrogatorios/theo.mp3#t=167",
@@ -14,7 +14,7 @@
   },
   {
     "persona": "theo",
-    "afirmacion": "Dice que salió por Sur al vehículo a buscar un cable, que volvió enseguida y que trajo el cable o lo guardó en el bolso.",
+    "afirmacion": "Dice que salió por sur a buscar un cable, que lo trajo al volver y que puede haberlo metido en el bolso.",
     "evidencias": [
       "nivel-3/interrogatorios/theo.mp3#t=264",
       "nivel-3/interrogatorios/theo.mp3#t=278",
@@ -56,7 +56,7 @@
   },
   {
     "persona": "petros",
-    "afirmacion": "Dice que entre las 22:40 y las 23:00 estuvo en la terraza conversando con Kyra y que no recuerda haber salido al estacionamiento.",
+    "afirmacion": "Dice que desde las 10 y 40 hasta las 11 estuvo en la terraza, que la conversación principal fue con Kira y que no tiene presente una salida al estacionamiento en ese horario.",
     "evidencias": [
       "nivel-3/interrogatorios/petros.mp3#t=132",
       "nivel-3/interrogatorios/petros.mp3#t=137",
@@ -85,18 +85,18 @@
   },
   {
     "persona": "petros",
-    "afirmacion": "Dice que esa noche no entró a la sala interior y que su invitación no lo autorizaba.",
+    "afirmacion": "Dice que su invitación no lo autorizaba y que no le pidió a nadie que le abriera la sala interior.",
     "evidencias": [
       "nivel-3/interrogatorios/petros.mp3#t=292",
       "nivel-3/interrogatorios/petros.mp3#t=309",
       "nivel-1/accesos.csv#C-0162",
       "nivel-2/fotos/IMG_5128.jpg#EXIF"
     ],
-    "explicacion": "El registro muestra a AG-004 entrando a la Cella a las 22:48:31, pero a esa hora Petros estaba en el estacionamiento según el GPS de su foto. El evento está fuera de secuencia y su credencial no tiene permiso para la Cella. El registro contradice su declaración, pero la evidencia física lo respalda: es un límite del registro, no de su declaración."
+    "explicacion": "El registro muestra a AG-004 entrando a la Cella a las 22:48:31, pero a esa hora la foto lo ubica en el estacionamiento. El evento está fuera de secuencia y su credencial no habilita la Cella. La frase audible es que la invitación no lo autorizaba. El ingreso del lector no queda acreditado."
   },
   {
     "persona": "marina",
-    "afirmacion": "Dice que no salió del templo en toda la noche, que entre las 22:40 y las 23:00 siguió adentro y que no fue al estacionamiento.",
+    "afirmacion": "Dice que no salió del templo en toda la noche, que en el tramo de las 10 y 40 a las 11 siguió adentro y que no salió al estacionamiento.",
     "evidencias": [
       "nivel-3/interrogatorios/marina.mp3#t=134",
       "nivel-3/interrogatorios/marina.mp3#t=154",
@@ -147,7 +147,7 @@
   },
   {
     "persona": "nikos",
-    "afirmacion": "Dice que a las 22:55 reactivó la alarma y que comprobó el estado del sistema, no el contenido de la vitrina.",
+    "afirmacion": "Dice que activó la alarma a las diez y cincuenta y cinco, que no levantó la tela y que comprobó el sistema, no el contenido de la vitrina.",
     "evidencias": [
       "nivel-3/interrogatorios/nikos.mp3#t=283",
       "nivel-3/interrogatorios/nikos.mp3#t=301",
@@ -171,7 +171,7 @@
   },
   {
     "persona": "yannis",
-    "afirmacion": "Dice que Stavros salió por Sur después de las 22:45 y antes de las 22:50, según su reloj.",
+    "afirmacion": "Dice que Bros salió con cajas por hielo después de las once menos cuarto y antes de las once menos diez, según su reloj.",
     "evidencias": [
       "nivel-3/interrogatorios/yannis.mp3#t=189",
       "nivel-1/accesos.csv#S-0027",
@@ -192,7 +192,7 @@
   },
   {
     "persona": "dafne",
-    "afirmacion": "Dice que la corona estaba en su lugar cuando hizo la foto y que después de salir de la cella no vio lo que hizo Theo.",
+    "afirmacion": "Dice que la corona estaba cuando hizo la foto y que no vio lo que hizo después quien quedó adentro.",
     "evidencias": [
       "nivel-3/interrogatorios/dafne.mp3#t=124",
       "nivel-3/interrogatorios/dafne.mp3#t=194",
